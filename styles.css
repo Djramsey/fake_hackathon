@@ -1,0 +1,11 @@
+#gyrados{
+    height:375px;
+    width:500px;
+ /*  background-color:purple; /* change color and background to the gif and take off color*/
+      background-image: url("http://24.media.tumblr.com/tumblr_m77rg7ZM5b1rzsfkvo1_500.gif");
+    background-color: #cccccc;
+  margin:auto;
+   position:absolute;
+
+  
+}

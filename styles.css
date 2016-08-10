@@ -7,6 +7,7 @@ body {
     background-attachment: fixed;
     height: 100%;
     width: 100%;
+   
 }
 
  /*  #gyrados {
@@ -24,7 +25,9 @@ body {
 }
 
 #swimmer {
-   /* background-image: url("http://giphy.com/gifs/swimming-swim-raag-l46Cei9gnXaJFGInu"); */
+   
+    height:100px;
+    background-image: url("http://gph.is/29AauoP"); 
     
     
 }
